@@ -8,17 +8,31 @@
 
 Circuit Connections :-
 
-<img src=https://github.com/lingeshkumarkamaraj/Home-Automation/blob/main/Home%20automation.png> 
+<img src=https://github.com/lingeshkumarkamaraj/Garbage-segregation-and-bin-level-indication/blob/main/circuit.png> 
 
 Serial monitor :-
 
-![Image](https://github.com/lingeshkumarkamaraj/Home-Automation/blob/main/Blynk.png)
+- when nothing...
+
+![Image](https://github.com/lingeshkumarkamaraj/Garbage-segregation-and-bin-level-indication/blob/main/Normal.png)
+
+- Dry one...
+
+![Image](https://github.com/lingeshkumarkamaraj/Garbage-segregation-and-bin-level-indication/blob/main/Dry.png)
+
+- Wet one...
+
+![Image](https://github.com/lingeshkumarkamaraj/Garbage-segregation-and-bin-level-indication/blob/main/Wet.png)
+
+- When Full...
+
+![Image](https://github.com/lingeshkumarkamaraj/Garbage-segregation-and-bin-level-indication/blob/main/full.png)
 
 Working :- 
 
 [<img width="300" height="300" src="https://img.icons8.com/color/96/start.png" alt="video"/>](https://youtu.be/dd_do7k_1IA)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [DOWNLOAD](https://github.com/lingeshkumarkamaraj/Home-Automation/raw/refs/heads/main/home%20automation.mp4) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [DOWNLOAD](https://github.com/lingeshkumarkamaraj/Garbage-segregation-and-bin-level-indication/raw/refs/heads/main/Garbage.mp4)
 
 ---
 Code :-
